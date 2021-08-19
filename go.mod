@@ -1,4 +1,4 @@
-module github.com/sideshow/apns2
+module github.com/sundayfun/apns2
 
 go 1.16
 
